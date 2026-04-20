@@ -1,0 +1,61 @@
+FullName,Position,GridPosition,Points,TeamName,TotalPitTime,AvgAirTemp,Race
+Oscar Piastri,1.0,1.0,25.0,McLaren,0.0,27.052531645569626,Bahrain
+George Russell,2.0,3.0,18.0,Mercedes,0.0,27.052531645569626,Bahrain
+Lando Norris,3.0,6.0,15.0,McLaren,0.0,27.052531645569626,Bahrain
+Charles Leclerc,4.0,2.0,12.0,Ferrari,0.0,27.052531645569626,Bahrain
+Lewis Hamilton,5.0,9.0,10.0,Ferrari,0.0,27.052531645569626,Bahrain
+Max Verstappen,6.0,7.0,8.0,Red Bull Racing,0.0,27.052531645569626,Bahrain
+Pierre Gasly,7.0,4.0,6.0,Alpine,0.0,27.052531645569626,Bahrain
+Esteban Ocon,8.0,14.0,4.0,Haas F1 Team,0.0,27.052531645569626,Bahrain
+Yuki Tsunoda,9.0,10.0,2.0,Red Bull Racing,0.0,27.052531645569626,Bahrain
+Oliver Bearman,10.0,20.0,1.0,Haas F1 Team,0.0,27.052531645569626,Bahrain
+Kimi Antonelli,11.0,5.0,0.0,Mercedes,0.0,27.052531645569626,Bahrain
+Alexander Albon,12.0,15.0,0.0,Williams,0.0,27.052531645569626,Bahrain
+Isack Hadjar,13.0,12.0,0.0,Racing Bulls,0.0,27.052531645569626,Bahrain
+Jack Doohan,14.0,11.0,0.0,Alpine,0.0,27.052531645569626,Bahrain
+Fernando Alonso,15.0,13.0,0.0,Aston Martin,0.0,27.052531645569626,Bahrain
+Liam Lawson,16.0,17.0,0.0,Racing Bulls,0.0,27.052531645569626,Bahrain
+Lance Stroll,17.0,19.0,0.0,Aston Martin,0.0,27.052531645569626,Bahrain
+Gabriel Bortoleto,18.0,18.0,0.0,Kick Sauber,0.0,27.052531645569626,Bahrain
+Carlos Sainz,19.0,8.0,0.0,Williams,-95.231,27.052531645569626,Bahrain
+Nico Hulkenberg,20.0,16.0,0.0,Kick Sauber,0.0,27.052531645569626,Bahrain
+Oscar Piastri,1.0,2.0,25.0,McLaren,0.0,29.483802816901402,Saudi Arabian
+Max Verstappen,2.0,1.0,18.0,Red Bull Racing,0.0,29.483802816901402,Saudi Arabian
+Charles Leclerc,3.0,4.0,15.0,Ferrari,0.0,29.483802816901402,Saudi Arabian
+Lando Norris,4.0,10.0,12.0,McLaren,0.0,29.483802816901402,Saudi Arabian
+George Russell,5.0,3.0,10.0,Mercedes,0.0,29.483802816901402,Saudi Arabian
+Kimi Antonelli,6.0,5.0,8.0,Mercedes,0.0,29.483802816901402,Saudi Arabian
+Lewis Hamilton,7.0,7.0,6.0,Ferrari,0.0,29.483802816901402,Saudi Arabian
+Carlos Sainz,8.0,6.0,4.0,Williams,0.0,29.483802816901402,Saudi Arabian
+Alexander Albon,9.0,11.0,2.0,Williams,0.0,29.483802816901402,Saudi Arabian
+Isack Hadjar,10.0,14.0,1.0,Racing Bulls,0.0,29.483802816901402,Saudi Arabian
+Fernando Alonso,11.0,13.0,0.0,Aston Martin,0.0,29.483802816901402,Saudi Arabian
+Liam Lawson,12.0,12.0,0.0,Racing Bulls,0.0,29.483802816901402,Saudi Arabian
+Oliver Bearman,13.0,15.0,0.0,Haas F1 Team,0.0,29.483802816901402,Saudi Arabian
+Esteban Ocon,14.0,19.0,0.0,Haas F1 Team,0.0,29.483802816901402,Saudi Arabian
+Nico Hulkenberg,15.0,18.0,0.0,Kick Sauber,0.0,29.483802816901402,Saudi Arabian
+Lance Stroll,16.0,16.0,0.0,Aston Martin,0.0,29.483802816901402,Saudi Arabian
+Jack Doohan,17.0,17.0,0.0,Alpine,0.0,29.483802816901402,Saudi Arabian
+Gabriel Bortoleto,18.0,20.0,0.0,Kick Sauber,0.0,29.483802816901402,Saudi Arabian
+Yuki Tsunoda,19.0,8.0,0.0,Red Bull Racing,0.0,29.483802816901402,Saudi Arabian
+Pierre Gasly,20.0,9.0,0.0,Alpine,0.0,29.483802816901402,Saudi Arabian
+Lando Norris,1.0,1.0,25.0,McLaren,-291.694,15.707865168539326,Australia
+Max Verstappen,2.0,3.0,18.0,Red Bull Racing,-291.079,15.707865168539326,Australia
+George Russell,3.0,4.0,15.0,Mercedes,-290.823,15.707865168539326,Australia
+Andrea Kimi Antonelli,4.0,16.0,12.0,Mercedes,-288.448,15.707865168539326,Australia
+Alexander Albon,5.0,6.0,10.0,Williams,-286.964,15.707865168539326,Australia
+Lance Stroll,6.0,13.0,8.0,Aston Martin,-287.942,15.707865168539326,Australia
+Nico Hulkenberg,7.0,17.0,6.0,Kick Sauber,-288.588,15.707865168539326,Australia
+Charles Leclerc,8.0,7.0,4.0,Ferrari,-289.081,15.707865168539326,Australia
+Oscar Piastri,9.0,2.0,2.0,McLaren,-291.2,15.707865168539326,Australia
+Lewis Hamilton,10.0,8.0,1.0,Ferrari,-287.313,15.707865168539326,Australia
+Pierre Gasly,11.0,9.0,0.0,Alpine,-287.969,15.707865168539326,Australia
+Yuki Tsunoda,12.0,5.0,0.0,Racing Bulls,-289.462,15.707865168539326,Australia
+Esteban Ocon,13.0,19.0,0.0,Haas F1 Team,-289.87,15.707865168539326,Australia
+Oliver Bearman,14.0,20.0,0.0,Haas F1 Team,-291.119,15.707865168539326,Australia
+Liam Lawson,15.0,18.0,0.0,Red Bull Racing,-289.573,15.707865168539326,Australia
+Gabriel Bortoleto,16.0,15.0,0.0,Kick Sauber,-289.189,15.707865168539326,Australia
+Fernando Alonso,17.0,12.0,0.0,Aston Martin,-287.23,15.707865168539326,Australia
+Carlos Sainz,18.0,10.0,0.0,Williams,0.0,15.707865168539326,Australia
+Jack Doohan,19.0,14.0,0.0,Alpine,0.0,15.707865168539326,Australia
+Isack Hadjar,20.0,11.0,0.0,Racing Bulls,0.0,15.707865168539326,Australia
